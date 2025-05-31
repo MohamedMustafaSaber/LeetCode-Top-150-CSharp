@@ -25,7 +25,7 @@ This repository is part of my personal practice journey to improve my data struc
 
 ## 📂 Structure
 
-Each problem is saved in its own file with the following structure:\
+Each problem is saved in its own file with the following structure:
 ```
 Solutions/
 ├── 001_Two_Sum.cs
