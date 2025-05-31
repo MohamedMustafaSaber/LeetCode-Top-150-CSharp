@@ -26,9 +26,10 @@ This repository is part of my personal practice journey to improve my data struc
 ## 📂 Structure
 
 Each problem is saved in its own file with the following structure:
-├── 001_Two_Sum.cs
-├── 002_Valid_Anagram.cs
-├── ...
+├── 📂 Solutions
+│   ├── 📄 001_Two_Sum.cs
+│   ├── 📄 002_Valid_Anagram.cs
+│   └── ... (150 files)
 
 
 > Filenames are prefixed with the problem number (based on the Top 150 list) and a descriptive name.
