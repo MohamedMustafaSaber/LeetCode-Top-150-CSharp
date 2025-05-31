@@ -26,20 +26,12 @@ This repository is part of my personal practice journey to improve my data struc
 ## 📂 Structure
 
 Each problem is saved in its own file with the following structure:
-│
-├── Solutions/
-│ ├── 001_Two_Sum.cs
-│ ├── 002_Valid_Anagram.cs
-│ ├── 003_Contains_Duplicate.cs
-│ ├── ...
-│ └── 150_Problem_Name.cs
-│
-├── Utilities/
-│ ├── Common.cs # Helper classes
-│ └── Extensions.cs # Extension methods
-│
-├── README.md
-└── LICENSE
+Solutions/
+├── 001_Two_Sum.cs
+├── 002_Valid_Anagram.cs
+├── 003_Contains_Duplicate.cs
+├── ...
+└── 150_Problem_Name.cs
 
 
 > Filenames are prefixed with the problem number (based on the Top 150 list) and a descriptive name.
