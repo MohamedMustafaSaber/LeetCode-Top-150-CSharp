@@ -27,12 +27,11 @@ This repository is part of my personal practice journey to improve my data struc
 
 Each problem is saved in its own file with the following structure:
 ```
-Solutions/
-├── 001_Two_Sum.cs
-├── 002_Valid_Anagram.cs
-├── 003_Contains_Duplicate.cs
+├── Two_Sum.cs
+├── Valid_Anagram.cs
+├── Contains_Duplicate.cs
 ├── ...
-└── 150_Problem_Name.cs
+└── Problem_Name.cs
 ```
 
 > Filenames are prefixed with the problem number (based on the Top 150 list) and a descriptive name.
@@ -41,9 +40,9 @@ Solutions/
 
 | Problem Category      | Solved |
 |-----------------------|--------|
-| Array & String        | ⏳      |
-| Binary Tree           | ⏳      |
-| DP & Recursion        | ⏳      |
+| Arrays & Hashing       | ⏳      |
+| Two Pointers           | ⏳      |
+| Sliding Window        | ⏳      |
 | ...                   | ...    |
 
 ## ⚙️ Automation
